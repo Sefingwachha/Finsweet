@@ -31,6 +31,8 @@
 
     .navbar-toggler-icon.close-icon {
         background-image: url(../image/close.png);
+        width:30px;
+        height:30px;
     }
 
     .bg img {
