@@ -24,13 +24,13 @@
     }
 
     .navbar-toggler-icon{
-        background-image: url(image/menu.png);
+        background-image: url(../image/menu.png);
         width:30px;
         height:30px;
     }
 
     .navbar-toggler-icon.close-icon {
-        background-image: url(image/close.png);
+        background-image: url(../image/close.png);
     }
 
     .bg img {
